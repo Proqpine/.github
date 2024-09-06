@@ -1,6 +1,6 @@
 # Welcome to David's Personal Projects 👋
 
-![Logo](assets/logo.svg)
+![Logo](./assets/logo.svg)
 
 ## 🙋‍♂️ About This Organization
 
